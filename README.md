@@ -76,4 +76,4 @@ train['Fare'].hist(color='green',bins=40,figsize=(8,4))
 
 
 # RESULT
-        <<INCLUDE YOUR RESULT HERE>>
+        Hence Exploratory Data Analysis on the given data set has been executed
