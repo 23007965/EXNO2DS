@@ -53,7 +53,6 @@ sns.countplot(x='SibSp',data=train)
 ![image](https://github.com/23007965/EXNO2DS/assets/138971238/af9fabfe-5995-4644-a694-df3fdc7d26e7)
 train['Fare'].hist(color='green',bins=40,figsize=(8,4))
 ![image](https://github.com/23007965/EXNO2DS/assets/138971238/932efb7a-42f5-436e-8c10-b3fb194643e2)
-
 ```
 
 # RESULT
